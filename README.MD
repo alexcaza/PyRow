@@ -1,5 +1,4 @@
 # PyRow
------
 
 #### PyRow is a CSV to plain text exportation tool that reformats exported rows into a list of strings.
 
