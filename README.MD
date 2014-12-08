@@ -10,6 +10,7 @@ Hopefully someone else will find this useful as well. :)
 
 #### How to use it:
 **FLAGS**
+
 "-o" or "--original-file" is the CSV file you want to use.
 "-d" or "--destination-file" is the txt file you would like to output to.
 
