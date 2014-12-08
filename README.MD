@@ -1,4 +1,4 @@
-# PyRow
+# PyRow - CSV to formatted text!
 
 #### PyRow is a CSV to plain text exportation tool that reformats/exports rows into a list of formatted strings.
 
@@ -12,7 +12,7 @@ Hopefully someone else will find this useful as well. :)
 * **Make it more user friendly**:
     * Allowing user to specify which columns they want to take.
 	* Allowing user to choose what they want to add to the output strings.
-	* Build GUI for make it more friendly.
+	* Build GUI to make it more friendly.
 
 * **Can't forget reusability**:
 	* Refactor code to make it easily importable into other projects.
