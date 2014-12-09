@@ -32,6 +32,6 @@ If you do decide to edit the column names it takes as arguments, be sure to leav
 
 ------
 
-Feel free to fork it or clone it to make it better! Merge requests also very welcomed.
+Feel free to fork it or clone it to make it better! Pull requests also very welcomed.
 
 \- Alex "Wigglyjoe" Caza
