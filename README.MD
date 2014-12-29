@@ -17,11 +17,14 @@ Importing it works like any other library.
 
 with that, you instatiate the class as normal
 
-`pyrow = PyRow()`
-
+```python
+pyrow = PyRow()
+```
 then you can call it with it's run function to output to the file you've specified in your new script
 
-`pyrow.run()`
+```python
+pyrow.run()
+```
 
 _run() expects 2 arguments to be passed to it_
 
