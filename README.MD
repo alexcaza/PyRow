@@ -9,7 +9,21 @@ I originally wrote this script to format output from a search engine keyword too
 Hopefully someone else will find this useful as well. :)
 
 #### How to use it:
-**FLAGS**
+**HOW TO IMPORT**
+
+Importing it works like anyther library.
+
+`from PyRow import PyRow`
+
+with that, you instatiate the class as normal
+
+`pyrow = PyRow()`
+
+then you can call it with it's run function to output to the file you've specified in your new script
+
+`pyrow.run()`
+
+**CLI FLAGS**
 
 "-o" or "--original-file" is the CSV file you want to use.
 "-d" or "--destination-file" is the txt file you would like to output to.
