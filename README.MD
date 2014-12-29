@@ -11,7 +11,7 @@ Hopefully someone else will find this useful as well. :)
 #### How to use it:
 **HOW TO IMPORT**
 
-Importing it works like anyther library.
+Importing it works like any other library.
 
 `from PyRow import PyRow`
 
@@ -23,7 +23,7 @@ then you can call it with it's run function to output to the file you've specifi
 
 `pyrow.run()`
 
-**CLI FLAGS**
+**CLI FLAGS - For stand-alone use**
 
 "-o" or "--original-file" is the CSV file you want to use.
 "-d" or "--destination-file" is the txt file you would like to output to.
