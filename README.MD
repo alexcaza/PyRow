@@ -13,8 +13,9 @@ Hopefully someone else will find this useful as well. :)
 
 Importing it works like any other library.
 
-`from PyRow import PyRow`
-
+```python
+from PyRow import PyRow
+```
 with that, you instatiate the class as normal
 
 ```python
