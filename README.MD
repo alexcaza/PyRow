@@ -23,6 +23,8 @@ then you can call it with it's run function to output to the file you've specifi
 
 `pyrow.run()`
 
+_run() expects 2 arguments to be passed to it_
+
 **CLI FLAGS - For stand-alone use**
 
 "-o" or "--original-file" is the CSV file you want to use.
